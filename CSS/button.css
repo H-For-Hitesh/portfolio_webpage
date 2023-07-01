@@ -1,0 +1,38 @@
+.BUTTON_DDD {
+   background: #972CB5;
+   background-image: -webkit-linear-gradient(top, #972CB5, #52006A);
+   background-image: -moz-linear-gradient(top, #972CB5, #52006A);
+   background-image: -ms-linear-gradient(top, #972CB5, #52006A);
+   background-image: -o-linear-gradient(top, #972CB5, #52006A);
+   background-image: -webkit-gradient(to bottom, #972CB5, #52006A);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   font-family: Verdana;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #52006A 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_DDD:hover {
+   border: solid #605099 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #5C527F);
+   background-image: -moz-linear-gradient(top, #1E62D0, #5C527F);
+   background-image: -ms-linear-gradient(top, #1E62D0, #5C527F);
+   background-image: -o-linear-gradient(top, #1E62D0, #5C527F);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #5C527F);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
